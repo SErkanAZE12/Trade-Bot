@@ -8,8 +8,8 @@ from urllib.parse import urlparse
 import requests
 
 
-access_id = "ED0373F98215493E852C5743B523DDFC"  # Replace with your access id
-secret_key = "835050EB6DA7C2A26122371F554806A3AF1ADA86E243A742"  # Replace with your secret key
+access_id = "your_coinex_api"  # Replace with your access id
+secret_key = "your_coinex_api_secret"  # Replace with your secret key
 
 
 class RequestsClient(object):
