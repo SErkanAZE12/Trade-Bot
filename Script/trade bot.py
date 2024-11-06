@@ -751,7 +751,7 @@ class BOT(RequestsClient):
 
 
 if __name__ == '__main__':
-    token='7899984092:AAGCUoGD881wKehxXKXLITv9MeyJk6RaE9E'
+    token='YOUR-BOT-TOKEN'
     test=BOT(token)
     test.run()
 
